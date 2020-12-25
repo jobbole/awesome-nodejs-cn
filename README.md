@@ -773,7 +773,7 @@
 - [dotenv](https://github.com/motdotla/dotenv) - 从 .env 文件加载环境变量.
 - [remote-git-tags](https://github.com/sindresorhus/remote-git-tags) - 从 git 远程仓库获取 tags
 - [semver](https://github.com/npm/node-semver) - 语义版本分析器
-- [Faker.js](https://github.com/Marak/Faker.js) - 测试数据批量生成工具
+- [Faker.js](https://github.com/Marak/Faker.js) - 测试数据批量生成工具 （推荐阅读：《[2.8 万 Star！生成虚假内容的神器：faker.js](https://mp.weixin.qq.com/s/DiPDVAUONDb_9DH-gUClVQ)》）
 - [nodegit](https://github.com/nodegit/nodegit) - 原生 Node 封装的 Git 工具
 - [json-strictify](https://github.com/pigulla/json-strictify) - 安全地将值序列化为 JSON ，不丢失数据或进入无限循环
 - [resolve-from](https://github.com/sindresorhus/resolve-from) - 从一个给定的路径执行某个模块的 resolve 方法
