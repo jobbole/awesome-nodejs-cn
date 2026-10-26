@@ -594,6 +594,7 @@
 - [TestCafe](https://github.com/DevExpress/testcafe) - 自动化的浏览器测试
 - [abstruse](https://github.com/bleenco/abstruse) - 持续集成服务器
 - [CodeceptJS](https://github.com/Codeception/CodeceptJS) - 端到端测试
+- [agent-qa](https://github.com/vostride/agent-qa) - 基于 Node.js 的 Web、Android 和 iOS 自然语言测试工具，具备持久记忆引擎与经验证的自我改进，支持 CLI 和 MCP（[官网](https://vostride.com)）
 - [Puppeteer](https://github.com/GoogleChrome/puppeteer) - 无头 Chrome
 - [Playwright](https://github.com/microsoft/playwright) - 用单一 API 实现 Chromium, WebKit 和 Firefox 内核的无头浏览器
 - [nve](https://github.com/ehmicky/nve) - 在本地多个版本的Node.js上运行任何命令
