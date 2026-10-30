@@ -751,6 +751,7 @@
 - [import-lazy](https://github.com/sindresorhus/import-lazy) - 懒加载一个模块
 - [file-type](https://github.com/sindresorhus/file-type) - 获得一个 Buffer 的文件类型
 - [Bottleneck](https://github.com/SGrondin/bottleneck) - 速率限制器，使流量控制变得容易
+- [BetterQueue](https://github.com/Saiop68/better-queue)：基于 Redis 的 Node.js 分布式限流器与任务队列，支持跨进程优先级、延时任务与崩溃恢复。
 - [ow](https://github.com/sindresorhus/ow) - 函数参数验证
 - [webworker-threads](https://github.com/audreyt/node-webworker-threads) - 使用原生线程的轻量级 Web Worker API
 - [clipboardy](https://github.com/sindresorhus/clipboardy) - 访问系统的剪贴板 (复制和粘贴)
